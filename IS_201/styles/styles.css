@@ -1,0 +1,25 @@
+
+
+body{font-family: Arial, Helvetica, sans-serif;
+font-size: 15px ;
+color: gray;
+
+}
+li{font-size: 14px; 
+    font-style: italic;
+    font-weight: normal;
+
+
+}
+a{color: pink;
+text-decoration:red;}
+a:hover{text-decoration: underline;}
+
+
+.resumeListHeading{font-weight: bold;
+font-style: normal;}
+.justify{text-align:justify ;}
+.bold{font-weight: bold;}
+
+.homebg{background-image: url('../Images/Snow_Lake.jpeg');
+background-position: top right;}
